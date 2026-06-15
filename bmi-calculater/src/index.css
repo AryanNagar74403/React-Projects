@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+html,body{
+    font-family:"Roboto";
+}
+.container{
+    box-shadow: 0 0 20px rgba(59, 130, 246, 0.2);
+}
